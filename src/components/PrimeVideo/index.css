@@ -3,4 +3,23 @@
 .app-container {
   background-color: #000000;
   background-size: cover;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.prime-video-img {
+  width: 100%;
+}
+
+.movies-list {
+  padding-left: 26px;
+  padding-right: 26px;
+}
+
+.movies-sub-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 26px;
 }
