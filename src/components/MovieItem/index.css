@@ -1,1 +1,18 @@
 /* Write your CSS here */
+/* Write your CSS here */
+
+.thumb-button {
+  background-color: transparent;
+  border: 0px;
+}
+
+.movie-thumb-img {
+  width: 230px;
+}
+
+.popup-description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
